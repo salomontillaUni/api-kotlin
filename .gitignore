@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+/.idea/
+.DS_Store
+/build
+app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# ===============================================
+# Material privado de estudio y sustentación
+# (No incluir en el repositorio público de entrega)
+# ===============================================
+material_estudio/
+*.html
+*SUSTENTACION*
+*sustentacion*

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de colores para TheMealDB Search -->
+    <color name="meal_primary">#E8523A</color>
+    <color name="meal_primary_variant">#C73C27</color>
+    <color name="meal_dark">#1E1E2A</color>
+    <color name="meal_accent">#F4A836</color>
+    <color name="meal_accent_light">#FFF3E0</color>
+    <color name="meal_bg_soft">#F9FAFB</color>
+    <color name="youtube_red">#E50914</color>
+    <color name="youtube_red_dark">#B20710</color>
+    <color name="error_red">#EF4444</color>
+    <color name="error_bg">#FEE2E2</color>
+
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="card_border">#E5E7EB</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="bg_dark">#121212</color>
+</resources>

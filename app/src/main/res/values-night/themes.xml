@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark application theme -->
+    <style name="Base.Theme.MealSearchApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/meal_primary</item>
+        <item name="colorPrimaryVariant">@color/meal_primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/meal_accent</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.MealSearchApp" parent="Base.Theme.MealSearchApp" />
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TheMealDB Search</string>
+    <string name="title_app">TheMealDB · Recetas</string>
+    <string name="subtitle_app">Explora la cocina del mundo con API REST</string>
+    <string name="hint_receta">Nombre de la receta (ej: arrabiata, pie)</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="btn_aleatorio">🎲 SORPRESA</string>
+    <string name="btn_por_ingrediente">🧂 POR INGREDIENTE</string>
+    <string name="btn_youtube">▶ VER RECETA EN YOUTUBE</string>
+    <string name="btn_mostrar_instrucciones">📖 MOSTRAR INSTRUCCIONES</string>
+    <string name="btn_ocultar_instrucciones">📖 OCULTAR INSTRUCCIONES</string>
+    <string name="toast_campo_vacio">Escribe el nombre de una receta o ingrediente</string>
+    <string name="error_no_encontrado">❌ No se encontró \"%1$s\". Intentá en inglés (ej: arrabiata, chicken).</string>
+    <string name="error_red">❌ Error de conexión: %1$s</string>
+    <string name="error_youtube_app">No se encontró una aplicación para abrir el enlace de YouTube</string>
+    <string name="label_ingredientes">🧂 Ingredientes y Medidas:</string>
+    <string name="label_instrucciones">📖 Instrucciones de Preparación:</string>
+    <string name="sin_tags">Sin tags</string>
+</resources>
